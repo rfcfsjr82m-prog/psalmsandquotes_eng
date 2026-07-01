@@ -1,0 +1,1499 @@
+{
+  "version": 1,
+  "language": "en",
+  "_schema": {
+    "id": "unique id, psalm_N or quote_NNN",
+    "type": "psalm | quote",
+    "number": "psalm number (psalms only)",
+    "title": "display title (psalms: theme; quotes: author)",
+    "text": "the content",
+    "date": "OPTIONAL recurring day MM-DD, e.g. 12-25 for Christmas. Entry is shown ONLY on this day every year.",
+    "dates": "OPTIONAL list of explicit days YYYY-MM-DD for moving feasts, e.g. Karfreitag: [\"2026-04-03\", \"2027-03-26\"]"
+  },
+  "anker": [
+    {
+      "id": "psalm_1",
+      "type": "psalm",
+      "number": 1,
+      "title": "1:1-6",
+      "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.\nBut his delight is in the law of the LORD; and in his law doth he meditate day and night.\nAnd he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.\nThe ungodly are not so: but are like the chaff which the wind driveth away.\nTherefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.\nFor the LORD knoweth the way of the righteous: but the way of the ungodly shall perish."
+    },
+    {
+      "id": "psalm_2",
+      "type": "psalm",
+      "number": 2,
+      "title": "2:1-12",
+      "text": "Why do the heathen rage, and the people imagine a vain thing?\nThe kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,\nLet us break their bands asunder, and cast away their cords from us.\nHe that sitteth in the heavens shall laugh: the Lord shall have them in derision.\nThen shall he speak unto them in his wrath, and vex them in his sore displeasure.\nYet have I set my king upon my holy hill of Zion.\nI will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.\nAsk of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.\nThou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter's vessel.\nBe wise now therefore, O ye kings: be instructed, ye judges of the earth.\nServe the LORD with fear, and rejoice with trembling.\nKiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him."
+    },
+    {
+      "id": "psalm_3",
+      "type": "psalm",
+      "number": 3,
+      "title": "3:2-9",
+      "text": "LORD, how are they increased that trouble me! many are they that rise up against me.\nMany there be which say of my soul, There is no help for him in God. Selah.\nBut thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.\nI cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.\nI laid me down and slept; I awaked; for the LORD sustained me.\nI will not be afraid of ten thousands of people, that have set themselves against me round about.\nArise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.\nSalvation belongeth unto the LORD: thy blessing is upon thy people. Selah."
+    },
+    {
+      "id": "psalm_4",
+      "type": "psalm",
+      "number": 4,
+      "title": "4:2-9",
+      "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.\nBut know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.\nStand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.\nOffer the sacrifices of righteousness, and put your trust in the LORD.\nThere be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.\nThou hast put gladness in my heart, more than in the time that their corn and their wine increased.\nI will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety."
+    },
+    {
+      "id": "psalm_5",
+      "type": "psalm",
+      "number": 5,
+      "title": "5:2-13",
+      "text": "Give ear to my words, O LORD, consider my meditation.\nHearken unto the voice of my cry, my King, and my God: for unto thee will I pray.\nMy voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.\nFor thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.\nThe foolish shall not stand in thy sight: thou hatest all workers of iniquity.\nThou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.\nBut as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.\nLead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.\nFor there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.\nDestroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.\nBut let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.\nFor thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield."
+    },
+    {
+      "id": "psalm_6",
+      "type": "psalm",
+      "number": 6,
+      "title": "6:2-11",
+      "text": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.\nMy soul is also sore vexed: but thou, O LORD, how long?\nReturn, O LORD, deliver my soul: oh save me for thy mercies' sake.\nFor in death there is no remembrance of thee: in the grave who shall give thee thanks?\nI am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.\nMine eye is consumed because of grief; it waxeth old because of all mine enemies.\nDepart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.\nThe LORD hath heard my supplication; the LORD will receive my prayer.\nLet all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly."
+    },
+    {
+      "id": "psalm_7",
+      "type": "psalm",
+      "number": 7,
+      "title": "7:2-18",
+      "text": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.\nO LORD my God, if I have done this; if there be iniquity in my hands;\nIf I have rewarded evil unto him that was at peace with me; yea, I have delivered him that without cause is mine enemy:\nLet the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.\nArise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.\nSo shall the congregation of the people compass thee about: for their sakes therefore return thou on high.\nThe LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.\nOh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.\nMy defence is of God, which saveth the upright in heart.\nGod judgeth the righteous, and God is angry with the wicked every day.\nIf he turn not, he will whet his sword; he hath bent his bow, and made it ready.\nHe hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.\nBehold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.\nHe made a pit, and digged it, and is fallen into the ditch which he made.\nHis mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.\nI will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high."
+    },
+    {
+      "id": "psalm_8",
+      "type": "psalm",
+      "number": 8,
+      "title": "8:2-10",
+      "text": "O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.\nOut of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.\nWhen I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;\nWhat is man, that thou art mindful of him? and the son of man, that thou visitest him?\nFor thou hast made him a little lower than the angels, and hast crowned him with glory and honour.\nThou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:\nAll sheep and oxen, yea, and the beasts of the field;\nThe fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.\nO LORD our Lord, how excellent is thy name in all the earth!"
+    },
+    {
+      "id": "psalm_9",
+      "type": "psalm",
+      "number": 9,
+      "title": "9:2-21",
+      "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.\nI will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.\nWhen mine enemies are turned back, they shall fall and perish at thy presence.\nFor thou hast maintained my right and my cause; thou satest in the throne judging right.\nThou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.\nO thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.\nBut the LORD shall endure for ever: he hath prepared his throne for judgment.\nAnd he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.\nThe LORD also will be a refuge for the oppressed, a refuge in times of trouble.\nAnd they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.\nSing praises to the LORD, which dwelleth in Zion: declare among the people his doings.\nWhen he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.\nHave mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:\nThat I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.\nThe heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.\nThe LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.\nThe wicked shall be turned into hell, and all the nations that forget God.\nFor the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.\nArise, O LORD; let not man prevail: let the heathen be judged in thy sight.\nPut them in fear, O LORD: that the nations may know themselves to be but men. Selah."
+    },
+    {
+      "id": "psalm_10",
+      "type": "psalm",
+      "number": 10,
+      "title": "10:1-18",
+      "text": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?\nThe wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.\nFor the wicked boasteth of his heart's desire, and blesseth the covetous, whom the LORD abhorreth.\nThe wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.\nHis ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.\nHe hath said in his heart, I shall not be moved: for I shall never be in adversity.\nHis mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.\nHe sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.\nHe lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.\nHe croucheth, and humbleth himself, that the poor may fall by his strong ones.\nHe hath said in his heart, God hath forgotten: he hideth his face; he will never see it.\nArise, O LORD; O God, lift up thine hand: forget not the humble.\nWherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.\nThou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.\nBreak thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.\nThe LORD is King for ever and ever: the heathen are perished out of his land.\nLORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:\nTo judge the fatherless and the oppressed, that the man of the earth may no more oppress."
+    },
+    {
+      "id": "psalm_11",
+      "type": "psalm",
+      "number": 11,
+      "title": "11:1-7",
+      "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?\nFor, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.\nIf the foundations be destroyed, what can the righteous do?\nThe LORD is in his holy temple, the LORD's throne is in heaven: his eyes behold, his eyelids try, the children of men.\nThe LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.\nUpon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.\nFor the righteous LORD loveth righteousness; his countenance doth behold the upright."
+    },
+    {
+      "id": "psalm_12",
+      "type": "psalm",
+      "number": 12,
+      "title": "12:2-9",
+      "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.\nThey speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.\nThe LORD shall cut off all flattering lips, and the tongue that speaketh proud things:\nWho have said, With our tongue will we prevail; our lips are our own: who is lord over us?\nFor the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.\nThe words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.\nThou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.\nThe wicked walk on every side, when the vilest men are exalted."
+    },
+    {
+      "id": "psalm_13",
+      "type": "psalm",
+      "number": 13,
+      "title": "13:2-6",
+      "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?\nHow long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?\nConsider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;\nLest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.\nBut I have trusted in thy mercy; my heart shall rejoice in thy salvation.\nI will sing unto the LORD, because he hath dealt bountifully with me."
+    },
+    {
+      "id": "psalm_14",
+      "type": "psalm",
+      "number": 14,
+      "title": "14:1-7",
+      "text": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.\nThe LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.\nThey are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.\nHave all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.\nThere were they in great fear: for God is in the generation of the righteous.\nYe have shamed the counsel of the poor, because the LORD is his refuge.\nOh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
+    },
+    {
+      "id": "psalm_15",
+      "type": "psalm",
+      "number": 15,
+      "title": "15:1-5",
+      "text": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?\nHe that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.\nHe that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.\nIn whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not.\nHe that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
+    },
+    {
+      "id": "psalm_16",
+      "type": "psalm",
+      "number": 16,
+      "title": "16:1-11",
+      "text": "Preserve me, O God: for in thee do I put my trust.\nO my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;\nBut to the saints that are in the earth, and to the excellent, in whom is all my delight.\nTheir sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.\nThe LORD is the portion of mine inheritance and of my cup: thou maintainest my lot.\nThe lines are fallen unto me in pleasant places; yea, I have a goodly heritage.\nI will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.\nI have set the LORD always before me: because he is at my right hand, I shall not be moved.\nTherefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.\nFor thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.\nThou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore."
+    },
+    {
+      "id": "psalm_17",
+      "type": "psalm",
+      "number": 17,
+      "title": "17:1-15",
+      "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.\nLet my sentence come forth from thy presence; let thine eyes behold the things that are equal.\nThou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.\nConcerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.\nHold up my goings in thy paths, that my footsteps slip not.\nI have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.\nShew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them.\nKeep me as the apple of the eye, hide me under the shadow of thy wings,\nFrom the wicked that oppress me, from my deadly enemies, who compass me about.\nThey are inclosed in their own fat: with their mouth they speak proudly.\nThey have now compassed us in our steps: they have set their eyes bowing down to the earth;\nLike as a lion that is greedy of his prey, and as it were a young lion lurking in secret places.\nArise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:\nFrom men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.\nAs for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness."
+    },
+    {
+      "id": "psalm_19",
+      "type": "psalm",
+      "number": 19,
+      "title": "19:2-15",
+      "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.\nDay unto day uttereth speech, and night unto night sheweth knowledge.\nThere is no speech nor language, where their voice is not heard.\nTheir line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,\nWhich is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.\nHis going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.\nThe law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple.\nThe statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes.\nThe fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.\nMore to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.\nMoreover by them is thy servant warned: and in keeping of them there is great reward.\nWho can understand his errors? cleanse thou me from secret faults.\nKeep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.\nLet the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer."
+    },
+    {
+      "id": "psalm_20",
+      "type": "psalm",
+      "number": 20,
+      "title": "20:2-10",
+      "text": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;\nSend thee help from the sanctuary, and strengthen thee out of Zion;\nRemember all thy offerings, and accept thy burnt sacrifice; Selah.\nGrant thee according to thine own heart, and fulfil all thy counsel.\nWe will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.\nNow know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.\nSome trust in chariots, and some in horses: but we will remember the name of the LORD our God.\nThey are brought down and fallen: but we are risen, and stand upright.\nSave, LORD: let the king hear us when we call."
+    },
+    {
+      "id": "psalm_21",
+      "type": "psalm",
+      "number": 21,
+      "title": "21:2-14",
+      "text": "The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!\nThou hast given him his heart's desire, and hast not withholden the request of his lips. Selah.\nFor thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.\nHe asked life of thee, and thou gavest it him, even length of days for ever and ever.\nHis glory is great in thy salvation: honour and majesty hast thou laid upon him.\nFor thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.\nFor the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.\nThine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.\nThou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.\nTheir fruit shalt thou destroy from the earth, and their seed from among the children of men.\nFor they intended evil against thee: they imagined a mischievous device, which they are not able to perform.\nTherefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.\nBe thou exalted, LORD, in thine own strength: so will we sing and praise thy power."
+    },
+    {
+      "id": "psalm_23",
+      "type": "psalm",
+      "number": 23,
+      "title": "23:1-6",
+      "text": "The Lord is my shepherd; I shall not want.\nHe maketh me to lie down in green pastures: he leadeth me beside the still waters.\nHe restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.\nYea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.\nThou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.\nSurely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever."
+    },
+    {
+      "id": "psalm_24",
+      "type": "psalm",
+      "number": 24,
+      "title": "24:1-10",
+      "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.\nFor he hath founded it upon the seas, and established it upon the floods.\nWho shall ascend into the hill of the Lord? or who shall stand in his holy place?\nHe that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.\nHe shall receive the blessing from the Lord, and righteousness from the God of his salvation.\nThis is the generation of them that seek him, that seek thy face, O Jacob. Selah.\nLift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.\nWho is this King of glory? The Lord strong and mighty, the Lord mighty in battle.\nLift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.\nWho is this King of glory? The Lord of hosts, he is the King of glory. Selah."
+    },
+    {
+      "id": "psalm_25",
+      "type": "psalm",
+      "number": 25,
+      "title": "25:1-7",
+      "text": "Unto thee, O Lord, do I lift up my soul.\nO my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.\nYea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.\nShew me thy ways, O Lord; teach me thy paths.\nLead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.\nRemember, O Lord, thy tender mercies and thy lovingkindnesses; for they have been ever of old.\nRemember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, O Lord."
+    },
+    {
+      "id": "psalm_26",
+      "type": "psalm",
+      "number": 26,
+      "title": "26:1-12",
+      "text": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.\nExamine me, O Lord, and prove me; try my reins and my heart.\nFor thy lovingkindness is before mine eyes: and I have walked in thy truth.\nI have not sat with vain persons, neither will I go in with dissemblers.\nI have hated the congregation of evil doers; and will not sit with the wicked.\nI will wash mine hands in innocency: so will I compass thine altar, O Lord:\nThat I may publish with the voice of thanksgiving, and tell of all thy wondrous works.\nLord, I have loved the habitation of thy house, and the place where thine honour dwelleth.\nGather not my soul with sinners, nor my life with bloody men:\nIn whose hands is mischief, and their right hand is full of bribes.\nBut as for me, I will walk in mine integrity: redeem me, and be merciful unto me.\nMy foot standeth in an even place: in the congregations will I bless the Lord."
+    },
+    {
+      "id": "psalm_27",
+      "type": "psalm",
+      "number": 27,
+      "title": "27:1-14",
+      "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?\nWhen the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.\nThough an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.\nOne thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.\nFor in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.\nAnd now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the Lord.\nHear, O Lord, when I cry with my voice: have mercy also upon me, and answer me.\nWhen thou saidst, Seek ye my face; my heart said unto thee, Thy face, Lord, will I seek.\nHide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.\nWhen my father and my mother forsake me, then the Lord will take me up.\nTeach me thy way, O Lord, and lead me in a plain path, because of mine enemies.\nDeliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.\nI had fainted, unless I had believed to see the goodness of the Lord in the land of the living.\nWait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord."
+    },
+    {
+      "id": "psalm_28",
+      "type": "psalm",
+      "number": 28,
+      "title": "28:1-9",
+      "text": "Unto thee will I cry, O Lord my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.\nHear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.\nDraw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.\nGive them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.\nBecause they regard not the works of the Lord, nor the operation of his hands, he shall destroy them, and not build them up.\nBlessed be the Lord, because he hath heard the voice of my supplications.\nThe Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.\nThe Lord is their strength, and he is the saving strength of his anointed.\nSave thy people, and bless thine inheritance: feed them also, and lift them up for ever."
+    },
+    {
+      "id": "psalm_29",
+      "type": "psalm",
+      "number": 29,
+      "title": "29:1-11",
+      "text": "Give unto the Lord, O ye mighty, give unto the Lord glory and strength.\nGive unto the Lord the glory due unto his name; worship the Lord in the beauty of holiness.\nThe voice of the Lord is upon the waters: the God of glory thundereth: the Lord is upon many waters.\nThe voice of the Lord is powerful; the voice of the Lord is full of majesty.\nThe voice of the Lord breaketh the cedars; yea, the Lord breaketh the cedars of Lebanon.\nHe maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.\nThe voice of the Lord divideth the flames of fire.\nThe voice of the Lord shaketh the wilderness; the Lord shaketh the wilderness of Kadesh.\nThe voice of the Lord maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory.\nThe Lord sitteth upon the flood; yea, the Lord sitteth King for ever.\nThe Lord will give strength unto his people; the Lord will bless his people with peace."
+    },
+    {
+      "id": "psalm_30",
+      "type": "psalm",
+      "number": 30,
+      "title": "30:2-13",
+      "text": "I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.\nO Lord my God, I cried unto thee, and thou hast healed me.\nO Lord, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.\nSing unto the Lord, O ye saints of his, and give thanks at the remembrance of his holiness.\nFor his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.\nAnd in my prosperity I said, I shall never be moved.\nLord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.\nI cried to thee, O Lord; and unto the Lord I made supplication.\nWhat profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?\nHear, O Lord, and have mercy upon me: Lord, be thou my helper.\nThou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;\nTo the end that my glory may sing praise to thee, and not be silent. O Lord my God, I will give thanks unto thee for ever."
+    },
+    {
+      "id": "psalm_32",
+      "type": "psalm",
+      "number": 32,
+      "title": "32:1-11",
+      "text": "Blessed is he whose transgression is forgiven, whose sin is covered.\nBlessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile.\nWhen I kept silence, my bones waxed old through my roaring all the day long.\nFor day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.\nI acknowledge my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.\nFor this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.\nThou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.\nI will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.\nBe ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.\nMany sorrows shall be to the wicked: but he that trusteth in the Lord, mercy shall compass him about.\nBe glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
+    },
+    {
+      "id": "psalm_36",
+      "type": "psalm",
+      "number": 36,
+      "title": "36:2-13",
+      "text": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.\nFor he flattereth himself in his own eyes, until his iniquity be found to be hateful.\nThe words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good.\nHe deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil.\nThy mercy, O Lord, is in the heavens; and thy faithfulness reacheth unto the clouds.\nThy righteousness is like the great mountains; thy judgments are a great deep: O Lord, thou preservest man and beast.\nHow excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.\nThey shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.\nFor with thee is the fountain of life: in thy light shall we see light.\nO continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.\nLet not the foot of pride come against me, and let not the hand of the wicked remove me.\nThere are the workers of iniquity fallen: they are cast down, and shall not be able to rise."
+    },
+    {
+      "id": "psalm_39",
+      "type": "psalm",
+      "number": 39,
+      "title": "39:2-14",
+      "text": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.\nI was dumb with silence, I held my peace, even from good; and my sorrow was stirred.\nMy heart was hot within me, while I was musing the fire burned: then spake I with my tongue,\nLord, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.\nBehold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.\nSurely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.\nAnd now, Lord, what wait I for? my hope is in thee.\nDeliver me from all my transgressions: make me not the reproach of the foolish.\nI was dumb, I opened not my mouth; because thou didst it.\nRemove thy stroke away from me: I am consumed by the blow of thine hand.\nWhen thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.\nHear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.\nO spare me, that I may recover strength, before I go hence, and be no more."
+    },
+    {
+      "id": "psalm_40",
+      "type": "psalm",
+      "number": 40,
+      "title": "40:2-18",
+      "text": "I waited patiently for the Lord; and he inclined unto me, and heard my cry.\nHe brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.\nAnd he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord.\nBlessed is that man that maketh the Lord his trust, and respecteth not the proud, nor such as turn aside to lies.\nMany, O Lord my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.\nSacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.\nThen said I, Lo, I come: in the volume of the book it is written of me,\nI delight to do thy will, O my God: yea, thy law is within my heart.\nI have preached righteousness in the great congregation: lo, I have not refrained my lips, O Lord, thou knowest.\nI have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.\nWithhold not thou thy tender mercies from me, O Lord: let thy lovingkindness and thy truth continually preserve me.\nFor innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.\nBe pleased, O Lord, to deliver me: O Lord, make haste to help me.\nLet them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.\nLet them be desolate for a reward of their shame that say unto me, Aha, aha.\nLet all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified.\nBut I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God."
+    },
+    {
+      "id": "psalm_41",
+      "type": "psalm",
+      "number": 41,
+      "title": "41:2-14",
+      "text": "Blessed is he that considereth the poor: the Lord will deliver him in time of trouble.\nThe Lord will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.\nThe Lord will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.\nI said, Lord, be merciful unto me: heal my soul; for I have sinned against thee.\nMine enemies speak evil of me, When shall he die, and his name perish?\nAnd if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.\nAll that hate me whisper together against me: against me do they devise my hurt.\nAn evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.\nYea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.\nBut thou, O Lord, be merciful unto me, and raise me up, that I may requite them.\nBy this I know that thou favourest me, because mine enemy doth not triumph over me.\nAnd as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.\nBlessed be the Lord God of Israel from everlasting, and to everlasting. Amen, and Amen."
+    },
+    {
+      "id": "psalm_42",
+      "type": "psalm",
+      "number": 42,
+      "title": "42:2-12",
+      "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.\nMy soul thirsteth for God, for the living God: when shall I come and appear before God?\nMy tears have been my meat day and night, while they continually say unto me, Where is thy God?\nWhen I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.\nWhy art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.\nO my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.\nDeep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.\nYet the Lord will command his lovingkindness in the day time, and in the night his song shall be with me, and my prayer unto the God of my life.\nI will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?\nAs with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?\nWhy art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God."
+    },
+    {
+      "id": "psalm_43",
+      "type": "psalm",
+      "number": 43,
+      "title": "43:1-5",
+      "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.\nFor thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?\nO send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.\nThen will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.\nWhy art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God."
+    },
+    {
+      "id": "psalm_45",
+      "type": "psalm",
+      "number": 45,
+      "title": "45:2-18",
+      "text": "My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.\nThou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.\nGird thy sword upon thy thigh, O most mighty, with thy glory and thy majesty.\nAnd in thy majesty ride prosperously because of truth and meekness and righteousness; and thy right hand shall teach thee terrible things.\nThine arrows are sharp in the heart of the king's enemies; whereby the people fall under thee.\nThy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre.\nThou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.\nAll thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad.\nKings' daughters were among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.\nHearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father's house;\nSo shall the king greatly desire thy beauty: for he is thy Lord; and worship thou him.\nAnd the daughter of Tyre shall be there with a gift; even the rich among the people shall intreat thy favour.\nThe king's daughter is all glorious within: her clothing is of wrought gold.\nShe shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee.\nWith gladness and rejoicing shall they be brought: they shall enter into the king's palace.\nInstead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.\nI will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever."
+    },
+    {
+      "id": "psalm_46",
+      "type": "psalm",
+      "number": 46,
+      "title": "46:2-12",
+      "text": "God is our refuge and strength, a very present help in trouble.\nTherefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;\nThough the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.\nThere is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.\nGod is in the midst of her; she shall not be moved: God shall help her, and that right early.\nThe heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.\nThe Lord of hosts is with us; the God of Jacob is our refuge. Selah.\nCome, behold the works of the Lord, what desolations he hath made in the earth.\nHe maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.\nBe still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.\nThe Lord of hosts is with us; the God of Jacob is our refuge. Selah."
+    },
+    {
+      "id": "psalm_47",
+      "type": "psalm",
+      "number": 47,
+      "title": "47:2-10",
+      "text": "O clap your hands, all ye people; shout unto God with the voice of triumph.\nFor the Lord most high is terrible; he is a great King over all the earth.\nHe shall subdue the people under us, and the nations under our feet.\nHe shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.\nGod is gone up with a shout, the Lord with the sound of a trumpet.\nSing praises to God, sing praises: sing praises unto our King, sing praises.\nFor God is the King of all the earth: sing ye praises with understanding.\nGod reigneth over the heathen: God sitteth upon the throne of his holiness.\nThe princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted."
+    },
+    {
+      "id": "psalm_48",
+      "type": "psalm",
+      "number": 48,
+      "title": "48:2-15",
+      "text": "Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.\nBeautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.\nGod is known in her palaces for a refuge.\nFor, lo, the kings were assembled, they passed by together.\nThey saw it, and so they marvelled; they were troubled, and hasted away.\nFear took hold upon them there, and pain, as of a woman in travail.\nThou breakest the ships of Tarshish with an east wind.\nAs we have heard, so have we seen in the city of the Lord of hosts, in the city of our God: God will establish it for ever. Selah.\nWe have thought of thy lovingkindness, O God, in the midst of thy temple.\nAccording to thy name, O God, so is thy praise unto the ends of the earth: thy right hand is full of righteousness.\nLet mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.\nWalk about Zion, and go round about her: tell the towers thereof.\nMark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following.\nFor this God is our God for ever and ever: he will be our guide even unto death."
+    },
+    {
+      "id": "psalm_49",
+      "type": "psalm",
+      "number": 49,
+      "title": "49:2-21",
+      "text": "Hear this, all ye people; give ear, all ye inhabitants of the world:\nBoth low and high, rich and poor, together.\nMy mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.\nI will incline mine ear to a parable: I will open my dark saying upon the harp.\nWherefore should I fear in the days of evil, when the iniquity of my heels shall compass me about?\nThey that trust in their wealth, and boast themselves in the multitude of their riches;\nNone of them can by any means redeem his brother, nor give to God a ransom for him:\n(For the redemption of their soul is precious, and it ceaseth for ever:)\nThat he should still live for ever, and not see corruption.\nFor he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.\nTheir inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names.\nNevertheless man being in honour abideth not: he is like the beasts that perish.\nThis their way is their folly: yet their posterity approve their sayings. Selah.\nLike sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.\nBut God will redeem my soul from the power of the grave: for he shall receive me. Selah.\nBe not thou afraid when one is made rich, when the glory of his house is increased;\nFor when he dieth he shall carry nothing away: his glory shall not descend after him.\nThough while he lived he blessed his soul: and men will praise thee, when thou doest well to thyself.\nHe shall go to the generation of his fathers; they shall never see light.\nMan that is in honour, and understandeth not, is like the beasts that perish."
+    },
+    {
+      "id": "psalm_51",
+      "type": "psalm",
+      "number": 51,
+      "title": "51:3-21",
+      "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.\nWash me throughly from mine iniquity, and cleanse me from my sin.\nFor I acknowledge my transgressions: and my sin is ever before me.\nAgainst thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.\nBehold, I was shapen in iniquity; and in sin did my mother conceive me.\nBehold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.\nPurge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.\nMake me to hear joy and gladness; that the bones which thou hast broken may rejoice.\nHide thy face from my sins, and blot out all mine iniquities.\nCreate in me a clean heart, O God; and renew a right spirit within me.\nCast me not away from thy presence; and take not thy holy spirit from me.\nRestore unto me the joy of thy salvation; and uphold me with thy free spirit.\nThen will I teach transgressors thy ways; and sinners shall be converted unto thee.\nDeliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.\nO Lord, open thou my lips; and my mouth shall shew forth thy praise.\nFor thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.\nThe sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.\nDo good in thy good pleasure unto Zion: build thou the walls of Jerusalem.\nThen shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar."
+    },
+    {
+      "id": "psalm_52",
+      "type": "psalm",
+      "number": 52,
+      "title": "52:3-11",
+      "text": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.\nThe tongue deviseth mischiefs; like a sharp razor, working deceitfully.\nThou lovest evil more than good; and lying rather than to speak righteousness. Selah.\nThou lovest all devouring words, O thou deceitful tongue.\nGod shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.\nThe righteous also shall see, and fear, and shall laugh at him:\nLo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.\nBut I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.\nI will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints."
+    },
+    {
+      "id": "psalm_53",
+      "type": "psalm",
+      "number": 53,
+      "title": "53:2-7",
+      "text": "The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.\nGod looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.\nEvery one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one.\nHave the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God.\nThere were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them.\nOh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
+    },
+    {
+      "id": "psalm_54",
+      "type": "psalm",
+      "number": 54,
+      "title": "54:3-9",
+      "text": "Save me, O God, by thy name, and judge me by thy strength.\nHear my prayer, O God; give ear to the words of my mouth.\nFor strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.\nBehold, God is mine helper: the Lord is with them that uphold my soul.\nHe shall reward evil unto mine enemies: cut them off in thy truth.\nI will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.\nFor he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies."
+    },
+    {
+      "id": "psalm_56",
+      "type": "psalm",
+      "number": 56,
+      "title": "56:2-14",
+      "text": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.\nMine enemies would daily swallow me up: for they be many that fight against me, O thou most High.\nWhat time I am afraid, I will trust in thee.\nIn God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.\nEvery day they wrest my words: all their thoughts are against me for evil.\nThey gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.\nShall they escape by iniquity? in thine anger cast down the people, O God.\nThou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?\nWhen I cry unto thee, then shall mine enemies turn back: this I know; for God is for me.\nIn God will I praise his word: in the Lord will I praise his word.\nIn God have I put my trust: I will not be afraid what man can do unto me.\nThy vows are upon me, O God: I will render praises unto thee.\nFor thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?"
+    },
+    {
+      "id": "psalm_57",
+      "type": "psalm",
+      "number": 57,
+      "title": "57:2-12",
+      "text": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.\nI will cry unto God most high; unto God that performeth all things for me.\nHe shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.\nMy soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.\nBe thou exalted, O God, above the heavens; let thy glory be above all the earth.\nThey have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah.\nMy heart is fixed, O God, my heart is fixed: I will sing and give praise.\nAwake up, my glory; awake, psaltery and harp: I myself will awake early.\nI will praise thee, O Lord, among the people: I will sing unto thee among the nations.\nFor thy mercy is great unto the heavens, and thy truth unto the clouds.\nBe thou exalted, O God, above the heavens: let thy glory be above all the earth."
+    },
+    {
+      "id": "psalm_58",
+      "type": "psalm",
+      "number": 58,
+      "title": "58:2-12",
+      "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?\nYea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.\nThe wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.\nTheir poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;\nWhich will not hearken to the voice of charmers, charming never so wisely.\nBreak their teeth, O God, in their mouth: break out the great teeth of the young lions, O Lord.\nLet them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.\nAs a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.\nBefore your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.\nThe righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.\nSo that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth."
+    },
+    {
+      "id": "psalm_59",
+      "type": "psalm",
+      "number": 59,
+      "title": "59:2-18",
+      "text": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.\nDeliver me from the workers of iniquity, and save me from bloody men.\nFor, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O Lord.\nThey run and prepare themselves without my fault: awake to help me, and behold.\nThou therefore, O Lord God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.\nThey return at evening: they make a noise like a dog, and go round about the city.\nBehold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?\nBut thou, O Lord, shalt laugh at them; thou shalt have all the heathen in derision.\nBecause of his strength will I wait upon thee: for God is my defence.\nThe God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.\nSlay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.\nFor the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak.\nConsume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.\nAnd at evening let them return; and let them make a noise like a dog, and go round about the city.\nLet them wander up and down for meat, and grudge if they be not satisfied.\nBut I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.\nUnto thee, O my strength, will I sing: for God is my defence, and the God of my mercy."
+    },
+    {
+      "id": "psalm_60",
+      "type": "psalm",
+      "number": 60,
+      "title": "60:3-14",
+      "text": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.\nThou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.\nThou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.\nThou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.\nThat thy beloved may be delivered; save with thy right hand, and hear me.\nGod hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.\nGilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;\nMoab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.\nWho will bring me into the strong city? who will lead me into Edom?\nWilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?\nGive us help from trouble: for vain is the help of man.\nThrough God we shall do valiantly: for he it is that shall tread down our enemies."
+    },
+    {
+      "id": "psalm_61",
+      "type": "psalm",
+      "number": 61,
+      "title": "61:2-9",
+      "text": "Hear my cry, O God; attend unto my prayer.\nFrom the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.\nFor thou hast been a shelter for me, and a strong tower from the enemy.\nI will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.\nFor thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.\nThou wilt prolong the king's life: and his years as many generations.\nHe shall abide before God for ever: O prepare mercy and truth, which may preserve him.\nSo will I sing praise unto thy name for ever, that I may daily perform my vows."
+    },
+    {
+      "id": "psalm_62",
+      "type": "psalm",
+      "number": 62,
+      "title": "62:2-13",
+      "text": "Truly my soul waiteth upon God: from him cometh my salvation.\nHe only is my rock and my salvation; he is my defence; I shall not be greatly moved.\nHow long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence.\nThey only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.\nMy soul, wait thou only upon God; for my expectation is from him.\nHe only is my rock and my salvation: he is my defence; I shall not be moved.\nIn God is my salvation and my glory: the rock of my strength, and my refuge, is in God.\nTrust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah.\nSurely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity.\nTrust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.\nGod hath spoken once; twice have I heard this; that power belongeth unto God.\nAlso unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work."
+    },
+    {
+      "id": "psalm_63",
+      "type": "psalm",
+      "number": 63,
+      "title": "63:2-12",
+      "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;\nTo see thy power and thy glory, so as I have seen thee in the sanctuary.\nBecause thy lovingkindness is better than life, my lips shall praise thee.\nThus will I bless thee while I live: I will lift up my hands in thy name.\nMy soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:\nWhen I remember thee upon my bed, and meditate on thee in the night watches.\nBecause thou hast been my help, therefore in the shadow of thy wings will I rejoice.\nMy soul followeth hard after thee: thy right hand upholdeth me.\nBut those that seek my soul, to destroy it, shall go into the lower parts of the earth.\nThey shall fall by the sword: they shall be a portion for foxes.\nBut the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped."
+    },
+    {
+      "id": "psalm_64",
+      "type": "psalm",
+      "number": 64,
+      "title": "64:2-11",
+      "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.\nHide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:\nWho whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:\nThat they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.\nThey encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?\nThey search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.\nBut God shall shoot at them with an arrow; suddenly shall they be wounded.\nSo they shall make their own tongue to fall upon themselves: all that see them shall flee away.\nAnd all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.\nThe righteous shall be glad in the Lord, and shall trust in him; and all the upright in heart shall glory."
+    },
+    {
+      "id": "psalm_65",
+      "type": "psalm",
+      "number": 65,
+      "title": "65:2-14",
+      "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.\nO thou that hearest prayer, unto thee shall all flesh come.\nIniquities prevail against me: as for our transgressions, thou shalt purge them away.\nBlessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.\nBy terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:\nWhich by his strength setteth fast the mountains; being girded with power:\nWhich stilleth the noise of the seas, the noise of their waves, and the tumult of the people.\nThey also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.\nThou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.\nThou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.\nThou crownest the year with thy goodness; and thy paths drop fatness.\nThey drop upon the pastures of the wilderness: and the little hills rejoice on every side.\nThe pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing."
+    },
+    {
+      "id": "psalm_66",
+      "type": "psalm",
+      "number": 66,
+      "title": "66:1-20",
+      "text": "Make a joyful noise unto God, all ye lands:\nSing forth the honour of his name: make his praise glorious.\nSay unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.\nAll the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.\nCome and see the works of God: he is terrible in his doing toward the children of men.\nHe turned the sea into dry land: they went through the flood on foot: there did we rejoice in him.\nHe ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.\nO bless our God, ye people, and make the voice of his praise to be heard:\nWhich holdeth our soul in life, and suffereth not our feet to be moved.\nFor thou, O God, hast proved us: thou hast tried us, as silver is tried.\nThou broughtest us into the net; thou laidst affliction upon our loins.\nThou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place.\nI will go into thy house with burnt offerings: I will pay thee my vows,\nWhich my lips have uttered, and my mouth hath spoken, when I was in trouble.\nI will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.\nCome and hear, all ye that fear God, and I will declare what he hath done for my soul.\nI cried unto him with my mouth, and he was extolled with my tongue.\nIf I regard iniquity in my heart, the Lord will not hear me:\nBut verily God hath heard me; he hath attended to the voice of my prayer.\nBlessed be God, which hath not turned away my prayer, nor his mercy from me."
+    },
+    {
+      "id": "psalm_67",
+      "type": "psalm",
+      "number": 67,
+      "title": "67:2-8",
+      "text": "God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.\nThat thy way may be known upon earth, thy saving health among all nations.\nLet the people praise thee, O God; let all the people praise thee.\nO let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.\nLet the people praise thee, O God; let all the people praise thee.\nThen shall the earth yield her increase; and God, even our own God, shall bless us.\nGod shall bless us; and all the ends of the earth shall fear him."
+    },
+    {
+      "id": "psalm_70",
+      "type": "psalm",
+      "number": 70,
+      "title": "70:2-6",
+      "text": "Make haste, o God, to deliver me; make haste to help me, O Lord.\nLet them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.\nLet them be turned back for a reward of their shame that say, Aha, aha.\nLet all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.\nBut I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying."
+    },
+    {
+      "id": "psalm_72",
+      "type": "psalm",
+      "number": 72,
+      "title": "72:1-20",
+      "text": "Give the king thy judgments, O God, and thy righteousness unto the king's son.\nHe shall judge thy people with righteousness, and thy poor with judgment.\nThe mountains shall bring peace to the people, and the little hills, by righteousness.\nHe shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.\nThey shall fear thee as long as the sun and moon endure, throughout all generations.\nHe shall come down like rain upon the mown grass: as showers that water the earth.\nIn his days shall the righteous flourish; and abundance of peace so long as the moon endureth.\nHe shall have dominion also from sea to sea, and from the river unto the ends of the earth.\nThey that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.\nThe kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.\nYea, all kings shall fall down before him: all nations shall serve him.\nFor he shall deliver the needy when he crieth; the poor also, and him that hath no helper.\nHe shall spare the poor and needy, and shall save the souls of the needy.\nHe shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.\nAnd he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.\nThere shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.\nHis name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.\nBlessed be the Lord God, the God of Israel, who only doeth wondrous things.\nAnd blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.\nThe prayers of David the son of Jesse are ended."
+    },
+    {
+      "id": "psalm_75",
+      "type": "psalm",
+      "number": 75,
+      "title": "75:2-11",
+      "text": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.\nWhen I shall receive the congregation I will judge uprightly.\nThe earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.\nI said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:\nLift not up your horn on high: speak not with a stiff neck.\nFor promotion cometh neither from the east, nor from the west, nor from the south.\nBut God is the judge: he putteth down one, and setteth up another.\nFor in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.\nBut I will declare for ever; I will sing praises to the God of Jacob.\nAll the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted."
+    },
+    {
+      "id": "psalm_76",
+      "type": "psalm",
+      "number": 76,
+      "title": "76:2-13",
+      "text": "In Judah is God known: his name is great in Israel.\nIn Salem also is his tabernacle, and his dwelling place in Zion.\nThere brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.\nThou art more glorious and excellent than the mountains of prey.\nThe stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.\nAt thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.\nThou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?\nThou didst cause judgment to be heard from heaven; the earth feared, and was still,\nWhen God arose to judgment, to save all the meek of the earth. Selah.\nSurely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.\nVow, and pay unto the Lord your God: let all that be round about him bring presents unto him that ought to be feared.\nHe shall cut off the spirit of princes: he is terrible to the kings of the earth."
+    },
+    {
+      "id": "psalm_77",
+      "type": "psalm",
+      "number": 77,
+      "title": "77:2-21",
+      "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.\nIn the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.\nI remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.\nThou holdest mine eyes waking: I am so troubled that I cannot speak.\nI have considered the days of old, the years of ancient times.\nI call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.\nWill the Lord cast off for ever? and will he be favourable no more?\nIs his mercy clean gone for ever? doth his promise fail for evermore?\nHath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.\nAnd I said, This is my infirmity: but I will remember the years of the right hand of the most High.\nI will remember the works of the Lord: surely I will remember thy wonders of old.\nI will meditate also of all thy work, and talk of thy doings.\nThy way, O God, is in the sanctuary: who is so great a God as our God?\nThou art the God that doest wonders: thou hast declared thy strength among the people.\nThou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah.\nThe waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.\nThe clouds poured out water: the skies sent out a sound: thine arrows also went abroad.\nThe voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook.\nThy way is in the sea, and thy path in the great waters, and thy footsteps are not known.\nThou leddest thy people like a flock by the hand of Moses and Aaron."
+    },
+    {
+      "id": "psalm_79",
+      "type": "psalm",
+      "number": 79,
+      "title": "79:1-13",
+      "text": "O god, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.\nThe dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.\nTheir blood have they shed like water round about Jerusalem; and there was none to bury them.\nWe are become a reproach to our neighbours, a scorn and derision to them that are round about us.\nHow long, Lord? wilt thou be angry for ever? shall thy jealousy burn like fire?\nPour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.\nFor they have devoured Jacob, and laid waste his dwelling place.\nO remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.\nHelp us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.\nWherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.\nLet the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;\nAnd render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.\nSo we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations."
+    },
+    {
+      "id": "psalm_80",
+      "type": "psalm",
+      "number": 80,
+      "title": "80:2-20",
+      "text": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.\nBefore Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us.\nTurn us again, O God, and cause thy face to shine; and we shall be saved.\nO Lord God of hosts, how long wilt thou be angry against the prayer of thy people?\nThou feedest them with the bread of tears; and givest them tears to drink in great measure.\nThou makest us a strife unto our neighbours: and our enemies laugh among themselves.\nTurn us again, O God of hosts, and cause thy face to shine; and we shall be saved.\nThou hast brought a vine out of Egypt: thou hast cast out the heathen, and planted it.\nThou preparedst room before it, and didst cause it to take deep root, and it filled the land.\nThe hills were covered with the shadow of it, and the boughs thereof were like the goodly cedars.\nShe sent out her boughs unto the sea, and her branches unto the river.\nWhy hast thou then broken down her hedges, so that all they which pass by the way do pluck her?\nThe boar out of the wood doth waste it, and the wild beast of the field doth devour it.\nReturn, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;\nAnd the vineyard which thy right hand hath planted, and the branch that thou madest strong for thyself.\nIt is burned with fire, it is cut down: they perish at the rebuke of thy countenance.\nLet thy hand be upon the man of thy right hand, upon the son of man whom thou madest strong for thyself.\nSo will not we go back from thee: quicken us, and we will call upon thy name.\nTurn us again, O Lord God of hosts, cause thy face to shine; and we shall be saved."
+    },
+    {
+      "id": "psalm_81",
+      "type": "psalm",
+      "number": 81,
+      "title": "81:2-17",
+      "text": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.\nTake a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.\nBlow up the trumpet in the new moon, in the time appointed, on our solemn feast day.\nFor this was a statute for Israel, and a law of the God of Jacob.\nThis he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.\nI removed his shoulder from the burden: his hands were delivered from the pots.\nThou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.\nHear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;\nThere shall no strange god be in thee; neither shalt thou worship any strange god.\nI am the Lord thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.\nBut my people would not hearken to my voice; and Israel would none of me.\nSo I gave them up unto their own hearts' lust: and they walked in their own counsels.\nOh that my people had hearkened unto me, and Israel had walked in my ways!\nI should soon have subdued their enemies, and turned my hand against their adversaries.\nThe haters of the Lord should have submitted themselves unto him: but their time should have endured for ever.\nHe should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee."
+    },
+    {
+      "id": "psalm_82",
+      "type": "psalm",
+      "number": 82,
+      "title": "82:1-8",
+      "text": "God standeth in the congregation of the mighty; he judgeth among the gods.\nHow long will ye judge unjustly, and accept the persons of the wicked? Selah.\nDefend the poor and fatherless: do justice to the afflicted and needy.\nDeliver the poor and needy: rid them out of the hand of the wicked.\nThey know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.\nI have said, Ye are gods; and all of you are children of the most High.\nBut ye shall die like men, and fall like one of the princes.\nArise, O God, judge the earth: for thou shalt inherit all nations."
+    },
+    {
+      "id": "psalm_83",
+      "type": "psalm",
+      "number": 83,
+      "title": "83:2-19",
+      "text": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.\nFor, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.\nThey have taken crafty counsel against thy people, and consulted against thy hidden ones.\nThey have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.\nFor they have consulted together with one consent: they are confederate against thee:\nThe tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;\nGebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;\nAssur also is joined with them: they have holpen the children of Lot. Selah.\nDo unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:\nWhich perished at Endor: they became as dung for the earth.\nMake their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:\nWho said, Let us take to ourselves the houses of God in possession.\nO my God, make them like a wheel; as the stubble before the wind.\nAs the fire burneth a wood, and as the flame setteth the mountains on fire;\nSo persecute them with thy tempest, and make them afraid with thy storm.\nFill their faces with shame; that they may seek thy name, O Lord.\nLet them be confounded and troubled for ever; yea, let them be put to shame, and perish:\nThat men may know that thou, whose name alone is Jehovah, art the most high over all the earth."
+    },
+    {
+      "id": "psalm_84",
+      "type": "psalm",
+      "number": 84,
+      "title": "84:2-13",
+      "text": "How amiable are thy tabernacles, O Lord of hosts!\nMy soul longeth, yea, even fainteth for the courts of the Lord: my heart and my flesh crieth out for the living God.\nYea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O Lord of hosts, my King, and my God.\nBlessed are they that dwell in thy house: they will be still praising thee. Selah.\nBlessed is the man whose strength is in thee; in whose heart are the ways of them.\nWho passing through the valley of Baca make it a well; the rain also filleth the pools.\nThey go from strength to strength, every one of them in Zion appeareth before God.\nO Lord God of hosts, hear my prayer: give ear, O God of Jacob. Selah.\nBehold, O God our shield, and look upon the face of thine anointed.\nFor a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.\nFor the Lord God is a sun and shield: the Lord will give grace and glory: no good thing will he withhold from them that walk uprightly.\nO Lord of hosts, blessed is the man that trusteth in thee."
+    },
+    {
+      "id": "psalm_85",
+      "type": "psalm",
+      "number": 85,
+      "title": "85:2-14",
+      "text": "Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.\nThou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.\nThou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.\nTurn us, O God of our salvation, and cause thine anger toward us to cease.\nWilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?\nWilt thou not revive us again: that thy people may rejoice in thee?\nShew us thy mercy, O Lord, and grant us thy salvation.\nI will hear what God the Lord will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.\nSurely his salvation is nigh them that fear him; that glory may dwell in our land.\nMercy and truth are met together; righteousness and peace have kissed each other.\nTruth shall spring out of the earth; and righteousness shall look down from heaven.\nYea, the Lord shall give that which is good; and our land shall yield her increase.\nRighteousness shall go before him; and shall set us in the way of his steps."
+    },
+    {
+      "id": "psalm_86",
+      "type": "psalm",
+      "number": 86,
+      "title": "86:1-17",
+      "text": "Bow down thine ear, O Lord, hear me: for I am poor and needy.\nPreserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee.\nBe merciful unto me, O Lord: for I cry unto thee daily.\nRejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul.\nFor thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.\nGive ear, O Lord, unto my prayer; and attend to the voice of my supplications.\nIn the day of my trouble I will call upon thee: for thou wilt answer me.\nAmong the gods there is none like unto thee, O Lord; neither are there any works like unto thy works.\nAll nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.\nFor thou art great, and doest wondrous things: thou art God alone.\nTeach me thy way, O Lord; I will walk in thy truth: unite my heart to fear thy name.\nI will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.\nFor great is thy mercy toward me: and thou hast delivered my soul from the lowest hell.\nO God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them.\nBut thou, O Lord, art a God full of compassion, and gracious, long suffering, and plenteous in mercy and truth.\nO turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.\nShew me a token for good; that they which hate me may see it, and be ashamed: because thou, Lord, hast holpen me, and comforted me."
+    },
+    {
+      "id": "psalm_87",
+      "type": "psalm",
+      "number": 87,
+      "title": "87:1-7",
+      "text": "His foundation is in the holy mountains.\nThe Lord loveth the gates of Zion more than all the dwellings of Jacob.\nGlorious things are spoken of thee, O city of God. Selah.\nI will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.\nAnd of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.\nThe Lord shall count, when he writeth up the people, that this man was born there. Selah.\nAs well the singers as the players on instruments shall be there: all my springs are in thee."
+    },
+    {
+      "id": "psalm_88",
+      "type": "psalm",
+      "number": 88,
+      "title": "88:2-19",
+      "text": "O lord God of my salvation, I have cried day and night before thee:\nLet my prayer come before thee: incline thine ear unto my cry;\nFor my soul is full of troubles: and my life draweth nigh unto the grave.\nI am counted with them that go down into the pit: I am as a man that hath no strength:\nFree among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.\nThou hast laid me in the lowest pit, in darkness, in the deeps.\nThy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah.\nThou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth.\nMine eye mourneth by reason of affliction: Lord, I have called daily upon thee, I have stretched out my hands unto thee.\nWilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah.\nShall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?\nShall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?\nBut unto thee have I cried, O Lord; and in the morning shall my prayer prevent thee.\nLord, why castest thou off my soul? why hidest thou thy face from me?\nI am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.\nThy fierce wrath goeth over me; thy terrors have cut me off.\nThey came round about me daily like water; they compassed me about together.\nLover and friend hast thou put far from me, and mine acquaintance into darkness."
+    },
+    {
+      "id": "psalm_90",
+      "type": "psalm",
+      "number": 90,
+      "title": "90:1-17",
+      "text": "Lord, thou hast been our dwelling place in all generations.\nBefore the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.\nThou turnest man to destruction; and sayest, Return, ye children of men.\nFor a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.\nThou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.\nIn the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.\nFor we are consumed by thine anger, and by thy wrath are we troubled.\nThou hast set our iniquities before thee, our secret sins in the light of thy countenance.\nFor all our days are passed away in thy wrath: we spend our years as a tale that is told.\nThe days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.\nWho knoweth the power of thine anger? even according to thy fear, so is thy wrath.\nSo teach us to number our days, that we may apply our hearts unto wisdom.\nReturn, O Lord, how long? and let it repent thee concerning thy servants.\nO satisfy us early with thy mercy; that we may rejoice and be glad all our days.\nMake us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.\nLet thy work appear unto thy servants, and thy glory unto their children.\nAnd let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it."
+    },
+    {
+      "id": "psalm_91",
+      "type": "psalm",
+      "number": 91,
+      "title": "91:1-16",
+      "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.\nI will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.\nSurely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.\nHe shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.\nThou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;\nNor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.\nA thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.\nOnly with thine eyes shalt thou behold and see the reward of the wicked.\nBecause thou hast made the Lord, which is my refuge, even the most High, thy habitation;\nThere shall no evil befall thee, neither shall any plague come nigh thy dwelling.\nFor he shall give his angels charge over thee, to keep thee in all thy ways.\nThey shall bear thee up in their hands, lest thou dash thy foot against a stone.\nThou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.\nBecause he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.\nHe shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.\nWith long life will I satisfy him, and shew him my salvation."
+    },
+    {
+      "id": "psalm_92",
+      "type": "psalm",
+      "number": 92,
+      "title": "92:2-16",
+      "text": "It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O Most High:\nTo shew forth thy lovingkindness in the morning, and thy faithfulness every night,\nUpon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.\nFor thou, Lord, hast made me glad through thy work: I will triumph in the works of thy hands.\nO Lord, how great are thy works! and thy thoughts are very deep.\nA brutish man knoweth not; neither doth a fool understand this.\nWhen the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:\nBut thou, Lord, art most high for evermore.\nFor, lo, thine enemies, O Lord, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.\nBut my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.\nMine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.\nThe righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.\nThose that be planted in the house of the Lord shall flourish in the courts of our God.\nThey shall still bring forth fruit in old age; they shall be fat and flourishing;\nTo shew that the Lord is upright: he is my rock, and there is no unrighteousness in him."
+    },
+    {
+      "id": "psalm_93",
+      "type": "psalm",
+      "number": 93,
+      "title": "93:1-5",
+      "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.\nThy throne is established of old: thou art from everlasting.\nThe floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their waves.\nThe Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.\nThy testimonies are very sure: holiness becometh thine house, O Lord, for ever."
+    },
+    {
+      "id": "psalm_95",
+      "type": "psalm",
+      "number": 95,
+      "title": "95:1-11",
+      "text": "O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation.\nLet us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.\nFor the Lord is a great God, and a great King above all gods.\nIn his hand are the deep places of the earth: the strength of the hills is his also.\nThe sea is his, and he made it: and his hands formed the dry land.\nO come, let us worship and bow down: let us kneel before the Lord our maker.\nFor he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,\nHarden not your heart, as in the provocation, and as in the day of temptation in the wilderness:\nWhen your fathers tempted me, proved me, and saw my work.\nForty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:\nUnto whom I sware in my wrath that they should not enter into my rest."
+    },
+    {
+      "id": "psalm_96",
+      "type": "psalm",
+      "number": 96,
+      "title": "96:1-13",
+      "text": "O sing unto the Lord a new song: sing unto the Lord, all the earth.\nSing unto the Lord, bless his name; shew forth his salvation from day to day.\nDeclare his glory among the heathen, his wonders among all people.\nFor the Lord is great, and greatly to be praised: he is to be feared above all gods.\nFor all the gods of the nations are idols: but the Lord made the heavens.\nHonour and majesty are before him: strength and beauty are in his sanctuary.\nGive unto the Lord, O ye kindreds of the people, give unto the Lord glory and strength.\nGive unto the Lord the glory due unto his name: bring an offering, and come into his courts.\nO worship the Lord in the beauty of holiness: fear before him, all the earth.\nSay among the heathen that the Lord reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.\nLet the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.\nLet the field be joyful, and all that is therein: then shall all the trees of the wood rejoice\nBefore the Lord: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth."
+    },
+    {
+      "id": "psalm_97",
+      "type": "psalm",
+      "number": 97,
+      "title": "97:1-12",
+      "text": "The Lord reigneth; let the earth rejoice; let the multitude of isles be glad thereof.\nClouds and darkness are round about him: righteousness and judgment are the habitation of his throne.\nA fire goeth before him, and burneth up his enemies round about.\nHis lightnings enlightened the world: the earth saw, and trembled.\nThe hills melted like wax at the presence of the Lord, at the presence of the Lord of the whole earth.\nThe heavens declare his righteousness, and all the people see his glory.\nConfounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods.\nZion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O Lord.\nFor thou, Lord, art high above all the earth: thou art exalted far above all gods.\nYe that love the Lord, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.\nLight is sown for the righteous, and gladness for the upright in heart.\nRejoice in the Lord, ye righteous; and give thanks at the remembrance of his holiness."
+    },
+    {
+      "id": "psalm_98",
+      "type": "psalm",
+      "number": 98,
+      "title": "98:1-9",
+      "text": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.\nThe Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.\nHe hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.\nMake a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise.\nSing unto the Lord with the harp; with the harp, and the voice of a psalm.\nWith trumpets and sound of cornet make a joyful noise before the Lord, the King.\nLet the sea roar, and the fulness thereof; the world, and they that dwell therein.\nLet the floods clap their hands: let the hills be joyful together\nBefore the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity."
+    },
+    {
+      "id": "psalm_99",
+      "type": "psalm",
+      "number": 99,
+      "title": "99:1-9",
+      "text": "The Lord reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.\nThe Lord is great in Zion; and he is high above all the people.\nLet them praise thy great and terrible name; for it is holy.\nThe king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.\nExalt ye the Lord our God, and worship at his footstool; for he is holy.\nMoses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he answered them.\nHe spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.\nThou answeredst them, O Lord our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.\nExalt the Lord our God, and worship at his holy hill; for the Lord our God is holy."
+    },
+    {
+      "id": "psalm_100",
+      "type": "psalm",
+      "number": 100,
+      "title": "100:1-5",
+      "text": "Make a joyful noise unto the Lord, all ye lands.\nServe the Lord with gladness: come before his presence with singing.\nKnow ye that the Lord he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.\nEnter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.\nFor the Lord is good; his mercy is everlasting; and his truth endureth to all generations."
+    },
+    {
+      "id": "psalm_101",
+      "type": "psalm",
+      "number": 101,
+      "title": "101:1-8",
+      "text": "I will sing of mercy and judgment: unto thee, O Lord, will I sing.\nI will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.\nI will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.\nA froward heart shall depart from me: I will not know a wicked person.\nWhoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.\nMine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.\nHe that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.\nI will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the Lord."
+    },
+    {
+      "id": "psalm_108",
+      "type": "psalm",
+      "number": 108,
+      "title": "108:2-14",
+      "text": "O God, my heart is fixed; I will sing and give praise, even with my glory.\nAwake, psaltery and harp: I myself will awake early.\nI will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.\nFor thy mercy is great above the heavens: and thy truth reacheth unto the clouds.\nBe thou exalted, O God, above the heavens: and thy glory above all the earth;\nThat thy beloved may be delivered: save with thy right hand, and answer me.\nGod hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.\nGilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;\nMoab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.\nWho will bring me into the strong city? who will lead me into Edom?\nWilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?\nGive us help from trouble: for vain is the help of man.\nThrough God we shall do valiantly: for he it is that shall tread down our enemies."
+    },
+    {
+      "id": "psalm_110",
+      "type": "psalm",
+      "number": 110,
+      "title": "110:1-7",
+      "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.\nThe Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.\nThy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.\nThe Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.\nThe Lord at thy right hand shall strike through kings in the day of his wrath.\nHe shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.\nHe shall drink of the brook in the way: therefore shall he lift up the head."
+    },
+    {
+      "id": "psalm_111",
+      "type": "psalm",
+      "number": 111,
+      "title": "111:1-10",
+      "text": "Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation.\nThe works of the Lord are great, sought out of all them that have pleasure therein.\nHis work is honourable and glorious: and his righteousness endureth for ever.\nHe hath made his wonderful works to be remembered: the Lord is gracious and full of compassion.\nHe hath given meat unto them that fear him: he will ever be mindful of his covenant.\nHe hath shewed his people the power of his works, that he may give them the heritage of the heathen.\nThe works of his hands are verity and judgment; all his commandments are sure.\nThey stand fast for ever and ever, and are done in truth and uprightness.\nHe sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.\nThe fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever."
+    },
+    {
+      "id": "psalm_112",
+      "type": "psalm",
+      "number": 112,
+      "title": "112:1-10",
+      "text": "Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.\nHis seed shall be mighty upon earth: the generation of the upright shall be blessed.\nWealth and riches shall be in his house: and his righteousness endureth for ever.\nUnto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.\nA good man sheweth favour, and lendeth: he will guide his affairs with discretion.\nSurely he shall not be moved for ever: the righteous shall be in everlasting remembrance.\nHe shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.\nHis heart is established, he shall not be afraid, until he see his desire upon his enemies.\nHe hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.\nThe wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish."
+    },
+    {
+      "id": "psalm_113",
+      "type": "psalm",
+      "number": 113,
+      "title": "113:1-9",
+      "text": "Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord.\nBlessed be the name of the Lord from this time forth and for evermore.\nFrom the rising of the sun unto the going down of the same the Lord's name is to be praised.\nThe Lord is high above all nations, and his glory above the heavens.\nWho is like unto the Lord our God, who dwelleth on high,\nWho humbleth himself to behold the things that are in heaven, and in the earth!\nHe raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;\nThat he may set him with princes, even with the princes of his people.\nHe maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_114",
+      "type": "psalm",
+      "number": 114,
+      "title": "114:1-8",
+      "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;\nJudah was his sanctuary, and Israel his dominion.\nThe sea saw it, and fled: Jordan was driven back.\nThe mountains skipped like rams, and the little hills like lambs.\nWhat ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?\nYe mountains, that ye skipped like rams; and ye little hills, like lambs?\nTremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;\nWhich turned the rock into a standing water, the flint into a fountain of waters."
+    },
+    {
+      "id": "psalm_115",
+      "type": "psalm",
+      "number": 115,
+      "title": "115:1-18",
+      "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.\nWherefore should the heathen say, Where is now their God?\nBut our God is in the heavens: he hath done whatsoever he hath pleased.\nTheir idols are silver and gold, the work of men's hands.\nThey have mouths, but they speak not: eyes have they, but they see not:\nThey have ears, but they hear not: noses have they, but they smell not:\nThey have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.\nThey that make them are like unto them; so is every one that trusteth in them.\nO Israel, trust thou in the Lord: he is their help and their shield.\nO house of Aaron, trust in the Lord: he is their help and their shield.\nYe that fear the Lord, trust in the Lord: he is their help and their shield.\nThe Lord hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.\nHe will bless them that fear the Lord, both small and great.\nThe Lord shall increase you more and more, you and your children.\nYe are blessed of the Lord which made heaven and earth.\nThe heaven, even the heavens, are the Lord's: but the earth hath he given to the children of men.\nThe dead praise not the Lord, neither any that go down into silence.\nBut we will bless the Lord from this time forth and for evermore. Praise the Lord."
+    },
+    {
+      "id": "psalm_116",
+      "type": "psalm",
+      "number": 116,
+      "title": "116:1-19",
+      "text": "I love the Lord, because he hath heard my voice and my supplications.\nBecause he hath inclined his ear unto me, therefore will I call upon him as long as I live.\nThe sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.\nThen called I upon the name of the Lord; O Lord, I beseech thee, deliver my soul.\nGracious is the Lord, and righteous; yea, our God is merciful.\nThe Lord preserveth the simple: I was brought low, and he helped me.\nReturn unto thy rest, O my soul; for the Lord hath dealt bountifully with thee.\nFor thou hast delivered my soul from death, mine eyes from tears, and my feet from falling.\nI will walk before the Lord in the land of the living.\nI believed, therefore have I spoken: I was greatly afflicted:\nI said in my haste, All men are liars.\nWhat shall I render unto the Lord for all his benefits toward me?\nI will take the cup of salvation, and call upon the name of the Lord.\nI will pay my vows unto the Lord now in the presence of all his people.\nPrecious in the sight of the Lord is the death of his saints.\nO Lord, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.\nI will offer to thee the sacrifice of thanksgiving, and will call upon the name of the Lord.\nI will pay my vows unto the Lord now in the presence of all his people.\nIn the courts of the Lord's house, in the midst of thee, O Jerusalem. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_117",
+      "type": "psalm",
+      "number": 117,
+      "title": "117:1-2",
+      "text": "O praise the Lord, all ye nations: praise him, all ye people.\nFor his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_120",
+      "type": "psalm",
+      "number": 120,
+      "title": "120:1-7",
+      "text": "In my distress I cried unto the Lord, and he heard me.\nDeliver my soul, O Lord, from lying lips, and from a deceitful tongue.\nWhat shall be given unto thee? or what shall be done unto thee, thou false tongue?\nSharp arrows of the mighty, with coals of juniper.\nWoe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!\nMy soul hath long dwelt with him that hateth peace.\nI am for peace: but when I speak, they are for war."
+    },
+    {
+      "id": "psalm_121",
+      "type": "psalm",
+      "number": 121,
+      "title": "121:1-8",
+      "text": "I will lift up mine eyes unto the hills, from whence cometh my help.\nMy help cometh from the Lord, which made heaven and earth.\nHe will not suffer thy foot to be moved: he that keepeth thee will not slumber.\nBehold, he that keepeth Israel shall neither slumber nor sleep.\nThe Lord is thy keeper: the Lord is thy shade upon thy right hand.\nThe sun shall not smite thee by day, nor the moon by night.\nThe Lord shall preserve thee from all evil: he shall preserve thy soul.\nThe Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore."
+    },
+    {
+      "id": "psalm_122",
+      "type": "psalm",
+      "number": 122,
+      "title": "122:1-9",
+      "text": "I was glad when they said unto me, Let us go into the house of the Lord.\nOur feet shall stand within thy gates, O Jerusalem.\nJerusalem is builded as a city that is compact together:\nWhither the tribes go up, the tribes of the Lord, unto the testimony of Israel, to give thanks unto the name of the Lord.\nFor there are set thrones of judgment, the thrones of the house of David.\nPray for the peace of Jerusalem: they shall prosper that love thee.\nPeace be within thy walls, and prosperity within thy palaces.\nFor my brethren and companions' sakes, I will now say, Peace be within thee.\nBecause of the house of the Lord our God I will seek thy good."
+    },
+    {
+      "id": "psalm_123",
+      "type": "psalm",
+      "number": 123,
+      "title": "123:1-4",
+      "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.\nBehold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until that he have mercy upon us.\nHave mercy upon us, O Lord, have mercy upon us: for we are exceedingly filled with contempt.\nOur soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud."
+    },
+    {
+      "id": "psalm_124",
+      "type": "psalm",
+      "number": 124,
+      "title": "124:1-8",
+      "text": "If it had not been the Lord who was on our side, now may Israel say;\nIf it had not been the Lord who was on our side, when men rose up against us:\nThen they had swallowed us up quick, when their wrath was kindled against us:\nThen the waters had overwhelmed us, the stream had gone over our soul:\nThen the proud waters had gone over our soul.\nBlessed be the Lord, who hath not given us as a prey to their teeth.\nOur soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.\nOur help is in the name of the Lord, who made heaven and earth."
+    },
+    {
+      "id": "psalm_125",
+      "type": "psalm",
+      "number": 125,
+      "title": "125:1-5",
+      "text": "They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever.\nAs the mountains are round about Jerusalem, so the Lord is round about his people from henceforth even for ever.\nFor the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.\nDo good, O Lord, unto those that be good, and to them that are upright in their hearts.\nAs for such as turn aside unto their crooked ways, the Lord shall lead them forth with the workers of iniquity: but peace shall be upon Israel."
+    },
+    {
+      "id": "psalm_126",
+      "type": "psalm",
+      "number": 126,
+      "title": "126:1-6",
+      "text": "When the Lord turned again the captivity of Zion, we were like them that dream.\nThen was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord hath done great things for them.\nThe Lord hath done great things for us; whereof we are glad.\nTurn again our captivity, O Lord, as the streams in the south.\nThey that sow in tears shall reap in joy.\nHe that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him."
+    },
+    {
+      "id": "psalm_127",
+      "type": "psalm",
+      "number": 127,
+      "title": "127:1-5",
+      "text": "Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain.\nIt is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.\nLo, children are an heritage of the Lord: and the fruit of the womb is his reward.\nAs arrows are in the hand of a mighty man; so are children of the youth.\nHappy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate."
+    },
+    {
+      "id": "psalm_128",
+      "type": "psalm",
+      "number": 128,
+      "title": "128:1-6",
+      "text": "Blessed is every one that feareth the Lord; that walketh in his ways.\nFor thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.\nThy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.\nBehold, that thus shall the man be blessed that feareth the Lord.\nThe Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.\nYea, thou shalt see thy children's children, and peace upon Israel."
+    },
+    {
+      "id": "psalm_129",
+      "type": "psalm",
+      "number": 129,
+      "title": "129:1-8",
+      "text": "Many a time have they afflicted me from my youth, may Israel now say:\nMany a time have they afflicted me from my youth: yet they have not prevailed against me.\nThe plowers plowed upon my back: they made long their furrows.\nThe Lord is righteous: he hath cut asunder the cords of the wicked.\nLet them all be confounded and turned back that hate Zion.\nLet them be as the grass upon the housetops, which withereth afore it groweth up:\nWherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.\nNeither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord."
+    },
+    {
+      "id": "psalm_130",
+      "type": "psalm",
+      "number": 130,
+      "title": "130:1-8",
+      "text": "Out of the depths have I cried unto thee, O Lord.\nLord, hear my voice: let thine ears be attentive to the voice of my supplications.\nIf thou, Lord, shouldest mark iniquities, O Lord, who shall stand?\nBut there is forgiveness with thee, that thou mayest be feared.\nI wait for the Lord, my soul doth wait, and in his word do I hope.\nMy soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.\nLet Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.\nAnd he shall redeem Israel from all his iniquities."
+    },
+    {
+      "id": "psalm_131",
+      "type": "psalm",
+      "number": 131,
+      "title": "131:1-3",
+      "text": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.\nSurely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.\nLet Israel hope in the Lord from henceforth and for ever."
+    },
+    {
+      "id": "psalm_132",
+      "type": "psalm",
+      "number": 132,
+      "title": "132:1-18",
+      "text": "Lord, remember David, and all his afflictions:\nHow he sware unto the Lord, and vowed unto the mighty God of Jacob;\nSurely I will not come into the tabernacle of my house, nor go up into my bed;\nI will not give sleep to mine eyes, or slumber to mine eyelids,\nUntil I find out a place for the Lord, an habitation for the mighty God of Jacob.\nLo, we heard of it at Ephratah: we found it in the fields of the wood.\nWe will go into his tabernacles: we will worship at his footstool.\nArise, O Lord, into thy rest; thou, and the ark of thy strength.\nLet thy priests be clothed with righteousness; and let thy saints shout for joy.\nFor thy servant David's sake turn not away the face of thine anointed.\nThe Lord hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.\nIf thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.\nFor the Lord hath chosen Zion; he hath desired it for his habitation.\nThis is my rest for ever: here will I dwell; for I have desired it.\nI will abundantly bless her provision: I will satisfy her poor with bread.\nI will also clothe her priests with salvation: and her saints shall shout aloud for joy.\nThere will I make the horn of David to bud: I have ordained a lamp for mine anointed.\nHis enemies will I clothe with shame: but upon himself shall his crown flourish."
+    },
+    {
+      "id": "psalm_133",
+      "type": "psalm",
+      "number": 133,
+      "title": "133:1-3",
+      "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!\nIt is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;\nAs the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the Lord commanded the blessing, even life for evermore."
+    },
+    {
+      "id": "psalm_134",
+      "type": "psalm",
+      "number": 134,
+      "title": "134:1-3",
+      "text": "Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.\nLift up your hands in the sanctuary, and bless the Lord.\nThe Lord that made heaven and earth bless thee out of Zion."
+    },
+    {
+      "id": "psalm_137",
+      "type": "psalm",
+      "number": 137,
+      "title": "137:1-9",
+      "text": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.\nWe hanged our harps upon the willows in the midst thereof.\nFor there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.\nHow shall we sing the Lord's song in a strange land?\nIf I forget thee, O Jerusalem, let my right hand forget her cunning.\nIf I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.\nRemember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.\nO daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.\nHappy shall he be, that taketh and dasheth thy little ones against the stones."
+    },
+    {
+      "id": "psalm_138",
+      "type": "psalm",
+      "number": 138,
+      "title": "138:1-8",
+      "text": "I will praise thee with my whole heart: before the gods will I sing praise unto thee.\nI will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.\nIn the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.\nAll the kings of the earth shall praise thee, O Lord, when they hear the words of thy mouth.\nYea, they shall sing in the ways of the Lord: for great is the glory of the Lord.\nThough the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.\nThough I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.\nThe Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands."
+    },
+    {
+      "id": "psalm_140",
+      "type": "psalm",
+      "number": 140,
+      "title": "140:2-14",
+      "text": "Deliver me, O Lord, from the evil man: preserve me from the violent man;\nWhich imagine mischiefs in their heart; continually are they gathered together for war.\nThey have sharpened their tongues like a serpent; adders' poison is under their lips. Selah.\nKeep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.\nThe proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.\nI said unto the Lord, Thou art my God: hear the voice of my supplications, O Lord.\nO God the Lord, the strength of my salvation, thou hast covered my head in the day of battle.\nGrant not, O Lord, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.\nAs for the head of those that compass me about, let the mischief of their own lips cover them.\nLet burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.\nLet not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him.\nI know that the Lord will maintain the cause of the afflicted, and the right of the poor.\nSurely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence."
+    },
+    {
+      "id": "psalm_141",
+      "type": "psalm",
+      "number": 141,
+      "title": "141:1-10",
+      "text": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.\nLet my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.\nSet a watch, O Lord, before my mouth; keep the door of my lips.\nIncline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.\nLet the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities.\nWhen their judges are overthrown in stony places, they shall hear my words; for they are sweet.\nOur bones are scattered at the grave's mouth, as when one cutteth and cleaveth wood upon the earth.\nBut mine eyes are unto thee, O God the Lord: in thee is my trust; leave not my soul destitute.\nKeep me from the snares which they have laid for me, and the gins of the workers of iniquity.\nLet the wicked fall into their own nets, whilst that I withal escape."
+    },
+    {
+      "id": "psalm_142",
+      "type": "psalm",
+      "number": 142,
+      "title": "142:2-8",
+      "text": "I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication.\nI poured out my complaint before him; I shewed before him my trouble.\nWhen my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.\nI looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.\nI cried unto thee, O Lord: I said, Thou art my refuge and my portion in the land of the living.\nAttend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.\nBring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me."
+    },
+    {
+      "id": "psalm_143",
+      "type": "psalm",
+      "number": 143,
+      "title": "143:1-12",
+      "text": "Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.\nAnd enter not into judgment with thy servant: for in thy sight shall no man living be justified.\nFor the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.\nTherefore is my spirit overwhelmed within me; my heart within me is desolate.\nI remember the days of old; I meditate on all thy works; I muse on the work of thy hands.\nI stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah.\nHear me speedily, O Lord: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.\nCause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.\nDeliver me, O Lord, from mine enemies: I flee unto thee to hide me.\nTeach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.\nQuicken me, O Lord, for thy name's sake: for thy righteousness' sake bring my soul out of trouble.\nAnd of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant."
+    },
+    {
+      "id": "psalm_144",
+      "type": "psalm",
+      "number": 144,
+      "title": "144:1-15",
+      "text": "Blessed be the Lord my strength which teacheth my hands to war, and my fingers to fight:\nMy goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.\nLord, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!\nMan is like to vanity: his days are as a shadow that passeth away.\nBow thy heavens, O Lord, and come down: touch the mountains, and they shall smoke.\nCast forth lightning, and scatter them: shoot out thine arrows, and destroy them.\nSend thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;\nWhose mouth speaketh vanity, and their right hand is a right hand of falsehood.\nI will sing a new song unto thee, O God: upon a psaltery and an instrument of ten strings will I sing praises unto thee.\nIt is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.\nRid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand is a right hand of falsehood:\nThat our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:\nThat our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:\nThat our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.\nHappy is that people, that is in such a case: yea, happy is that people, whose God is the Lord."
+    },
+    {
+      "id": "psalm_146",
+      "type": "psalm",
+      "number": 146,
+      "title": "146:1-10",
+      "text": "Praise ye the Lord. Praise the Lord, O my soul.\nWhile I live will I praise the Lord: I will sing praises unto my God while I have any being.\nPut not your trust in princes, nor in the son of man, in whom there is no help.\nHis breath goeth forth, he returneth to his earth; in that very day his thoughts perish.\nHappy is he that hath the God of Jacob for his help, whose hope is in the Lord his God:\nWhich made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:\nWhich executeth judgment for the oppressed: which giveth food to the hungry. The Lord looseth the prisoners:\nThe Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down: the Lord loveth the righteous:\nThe Lord preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.\nThe Lord shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_147",
+      "type": "psalm",
+      "number": 147,
+      "title": "147:1-20",
+      "text": "Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.\nThe Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.\nHe healeth the broken in heart, and bindeth up their wounds.\nHe telleth the number of the stars; he calleth them all by their names.\nGreat is our Lord, and of great power: his understanding is infinite.\nThe Lord lifteth up the meek: he casteth the wicked down to the ground.\nSing unto the Lord with thanksgiving; sing praise upon the harp unto our God:\nWho covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.\nHe giveth to the beast his food, and to the young ravens which cry.\nHe delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.\nThe Lord taketh pleasure in them that fear him, in those that hope in his mercy.\nPraise the Lord, O Jerusalem; praise thy God, O Zion.\nFor he hath strengthened the bars of thy gates; he hath blessed thy children within thee.\nHe maketh peace in thy borders, and filleth thee with the finest of the wheat.\nHe sendeth forth his commandment upon earth: his word runneth very swiftly.\nHe giveth snow like wool: he scattereth the hoarfrost like ashes.\nHe casteth forth his ice like morsels: who can stand before his cold?\nHe sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.\nHe sheweth his word unto Jacob, his statutes and his judgments unto Israel.\nHe hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_148",
+      "type": "psalm",
+      "number": 148,
+      "title": "148:1-14",
+      "text": "Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.\nPraise ye him, all his angels: praise ye him, all his hosts.\nPraise ye him, sun and moon: praise him, all ye stars of light.\nPraise him, ye heavens of heavens, and ye waters that be above the heavens.\nLet them praise the name of the Lord: for he commanded, and they were created.\nHe hath also stablished them for ever and ever: he hath made a decree which shall not pass.\nPraise the Lord from the earth, ye dragons, and all deeps:\nFire, and hail; snow, and vapours; stormy wind fulfilling his word:\nMountains, and all hills; fruitful trees, and all cedars:\nBeasts, and all cattle; creeping things, and flying fowl:\nKings of the earth, and all people; princes, and all judges of the earth:\nBoth young men, and maidens; old men, and children:\nLet them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.\nHe also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_149",
+      "type": "psalm",
+      "number": 149,
+      "title": "149:1-9",
+      "text": "Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.\nLet Israel rejoice in him that made him: let the children of Zion be joyful in their King.\nLet them praise his name in the dance: let them sing praises unto him with the timbrel and harp.\nFor the Lord taketh pleasure in his people: he will beautify the meek with salvation.\nLet the saints be joyful in glory: let them sing aloud upon their beds.\nLet the high praises of God be in their mouth, and a twoedged sword in their hand;\nTo execute vengeance upon the heathen, and punishments upon the people;\nTo bind their kings with chains, and their nobles with fetters of iron;\nTo execute upon them the judgment written: this honour have all his saints. Praise ye the Lord."
+    },
+    {
+      "id": "psalm_150",
+      "type": "psalm",
+      "number": 150,
+      "title": "150:1-6",
+      "text": "Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power.\nPraise him for his mighty acts: praise him according to his excellent greatness.\nPraise him with the sound of the trumpet: praise him with the psaltery and harp.\nPraise him with the timbrel and dance: praise him with stringed instruments and organs.\nPraise him upon the loud cymbals: praise him upon the high sounding cymbals.\nLet every thing that hath breath praise the Lord. Praise ye the Lord."
+    },
+    {
+      "id": "quote_002",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "If there are many mansions in heaven, there are also many ways to reach them."
+    },
+    {
+      "id": "quote_003",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "If someone prays much and fasts, but has no love for enemies, he cannot possess peace of soul."
+    },
+    {
+      "id": "quote_004",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Pure knowledge is unknown to those who are not free from their ego and from all earthly goods."
+    },
+    {
+      "id": "quote_005",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "We must understand God as form without form, and as substance without substance, for He has no forms."
+    },
+    {
+      "id": "quote_006",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "The Spirit of God teaches us to pray everywhere, even in the desert, for all people, for the whole world."
+    },
+    {
+      "id": "quote_007",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "When you feel divine peace and all-embracing love within yourself, your soul is already like God."
+    },
+    {
+      "id": "quote_008",
+      "type": "quote",
+      "author": "Jesus Christ",
+      "title": "",
+      "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak."
+    },
+    {
+      "id": "quote_009",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "One with the One, one from the One, one in the One, and in the One, one for eternity."
+    },
+    {
+      "id": "quote_010",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "In truth: if a man were to leave behind a kingdom and the whole world, but kept himself, he would have left nothing."
+    },
+    {
+      "id": "quote_011",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+    },
+    {
+      "id": "quote_012",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "For the Lord is in me and has made me like Him.\nThe Lord glorifies man and makes him like Himself."
+    },
+    {
+      "id": "quote_013",
+      "type": "quote",
+      "author": "St Symeon der neue Theologe",
+      "title": "",
+      "text": "The soul cannot live unless it is indescribably and without confusion united with God, who is in reality the eternal life."
+    },
+    {
+      "id": "quote_014",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "As soon as man turns away from temporal things and turns to his inner self, he perceives a heavenly light that comes from heaven."
+    },
+    {
+      "id": "quote_015",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Sincere and perfect self-denial is a virtue to be preferred above all other virtues.\nNo work of importance can be done without it."
+    },
+    {
+      "id": "quote_016",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "The demons offer these serpents, namely worldly things.\nThey present these pleasures as though they were in some way eternal."
+    },
+    {
+      "id": "quote_017",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "God is neither Being nor Understanding, nor does He know this or that.\nTherefore God is empty of all things, and therefore He is all things."
+    },
+    {
+      "id": "quote_018",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Go entirely out of yourself for love of God, and God will go entirely out of Himself for love of you.\nWhat then remains is a simplified unity."
+    },
+    {
+      "id": "quote_019",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "In a word: never cease from these three things — faith, hope and love.\nAnd know that the greatest of these three will always be love."
+    },
+    {
+      "id": "quote_020",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."
+    },
+    {
+      "id": "quote_021",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "I desire nothing else but to pray for others as I pray for myself.\nTo pray for people means to give one's own blood."
+    },
+    {
+      "id": "quote_022",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "In the soul there is a powerful fortress into which not even the gaze of God in three persons can penetrate.\nIt is the place of pure unity."
+    },
+    {
+      "id": "quote_023",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "The soul must not ponder about understanding but free itself and enter into the arms of love.\nThen His love will teach what is to be done next."
+    },
+    {
+      "id": "quote_024",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:\nNot of works, lest any man should boast."
+    },
+    {
+      "id": "quote_025",
+      "type": "quote",
+      "author": "Ramakrishna",
+      "title": "",
+      "text": "Everyone can attain knowledge.\nThere are two entities: jivatma, the individual soul, and Paramatma, the supreme soul.\nThrough prayer, all individual souls can be united with the supreme soul."
+    },
+    {
+      "id": "quote_026",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "To perceive God through the soul, the soul must be blind.\nTherefore he said: He saw the Nothing, from whose light all light comes, from whose substance all substance comes."
+    },
+    {
+      "id": "quote_027",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."
+    },
+    {
+      "id": "quote_028",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby."
+    },
+    {
+      "id": "quote_029",
+      "type": "quote",
+      "author": "St Symeon der neue Theologe",
+      "title": "",
+      "text": "The poor in spirit have no attachment to present things.\nThey are not even passionately occupied with these things in their thoughts, nor interested in prolonging the simplest pleasure."
+    },
+    {
+      "id": "quote_030",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "I will lead the noble souls into solitude, and there I will speak to their heart.\nOne with the One, one from the One and in the One, one himself for eternity."
+    },
+    {
+      "id": "quote_031",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "To find God, there is no better counsel than to let God be.\nWhether man goes far or near, God never departs; He always remains close."
+    },
+    {
+      "id": "quote_032",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "God has directed the soul toward freedom and independence, such that He does not wish to force anything upon her beyond her free will; nor does He wish to demand from her what she does not will."
+    },
+    {
+      "id": "quote_033",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Never does an unrest arise in you whose origin is not, consciously or unconsciously, in your own will.\nYou yourself are the obstacle in things: your attitude toward things is wrong."
+    },
+    {
+      "id": "quote_034",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Never has anyone wished for anything as much as God wishes to bring someone to the knowledge of God.\nGod is near to us, but we are very far from Him.\nLet God be God in you."
+    },
+    {
+      "id": "quote_035",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Where the creature ends, there begins God's being.\nAll that God demands of you most urgently is to go out from yourself — where you are creature — and let God be God in you."
+    },
+    {
+      "id": "quote_036",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "For as we have many members in one body, and all members have not the same office:\nSo we, being many, are one body in Christ, and every one members one of another."
+    },
+    {
+      "id": "quote_037",
+      "type": "quote",
+      "author": "Nicephorus der Einsame",
+      "title": "",
+      "text": "Then a man sees that the Kingdom of God is within us.\nAnd when he now sees this in himself, he strives with pure prayer to maintain it and to strengthen it there."
+    },
+    {
+      "id": "quote_038",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "One can imagine heat without fire and light without the sun; yet one cannot think of God without the soul nor the soul without God — so much are they one."
+    },
+    {
+      "id": "quote_039",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "The eye with which I see God is the same eye with which God sees me.\nMy eye and God's eye are one and the same in seeing, one and the same in knowing, one and the same in loving."
+    },
+    {
+      "id": "quote_040",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "Surely you have seen many prayer books that advise the soul to enter within itself.\nWell, that is exactly it.\nFor to my best understanding, prayer is the gateway to this castle."
+    },
+    {
+      "id": "quote_041",
+      "type": "quote",
+      "author": "Archimandrite Sophrony",
+      "title": "",
+      "text": "Certainly it is not unnecessary to clarify that the prayer in the name of Jesus has nothing automatic or magical about it.\nIf we make no effort to keep His commandments, we call upon His name in vain."
+    },
+    {
+      "id": "quote_042",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "And who is nobler than the one who is born half from what the world has highest and best to offer, and half from the innermost depths of the divine nature and divine solitude?"
+    },
+    {
+      "id": "quote_043",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "The moment God created the first man, and the moment the last man must vanish, and the moment in which I speak — they are in God equal and are no more than one moment."
+    },
+    {
+      "id": "quote_044",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?\nIf any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are."
+    },
+    {
+      "id": "quote_045",
+      "type": "quote",
+      "author": "Archimandrite Sophrony",
+      "title": "",
+      "text": "The battlefield against evil — cosmic evil — is in our own hearts; for the deepest root of sin lies in pride... this true seed of death that weighs upon all mankind with the darkness of despair."
+    },
+    {
+      "id": "quote_046",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "For we through the Spirit wait for the hope of righteousness by faith.\nFor in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+    },
+    {
+      "id": "quote_047",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "Because that which may be known of God is manifest in them; for God hath shewed it unto them.\nFor the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."
+    },
+    {
+      "id": "quote_048",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "If we make a habit of praying for our enemies from the bottom of our heart and of loving them, peace will always be in our soul.\nBefore God it is a great work to pray for those who offend us and cause us sorrow."
+    },
+    {
+      "id": "quote_049",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "O my soul, go out!\nGod, enter in!\nSink all my being in God, who is the Non-man.\nSink into this unfathomably deep river!\nIf I flee Thee, Thou comest to me."
+    },
+    {
+      "id": "quote_050",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "In the beginning, beyond sense, there is the Word.\nO rich treasure, where the beginning begets the beginning.\nO heart of the Father, from which the Word flows unceasingly with great joy!\nAnd yet this breast keeps the Word within itself.\nThis is true."
+    },
+    {
+      "id": "quote_051",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "The object of pure detachment is neither this nor that.\nDetachment tends toward a pure nothing, for it is directed toward the highest possible state in which God can act fully according to His will within us."
+    },
+    {
+      "id": "quote_052",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Come now, noble souls, and behold the radiance you carry within yourselves!\nBut if you do not let yourselves go completely, if you do not drown yourselves in this bottomless sea of the Godhead, you cannot know the divine light."
+    },
+    {
+      "id": "quote_053",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "It is very useful that each person, according to their situation, try to rid themselves of things and business that are not necessary.\nThis is of such great importance that I consider it impossible ever to enter the essential stages without beginning with this."
+    },
+    {
+      "id": "quote_054",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,\nhath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds."
+    },
+    {
+      "id": "quote_055",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Those persons who have renounced everything, who are themselves released, and who never for a single moment think of what they have given up — who are steadfast, unmoved in themselves and unchangeable — such persons alone have truly achieved detachment."
+    },
+    {
+      "id": "quote_056",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "As soon as the soul finds itself at this stage of prayer, it can produce numerous acts with the aim of motivating it toward great works for God and of awakening its love for Him.\nOther works it carries out to favor the growth of virtues."
+    },
+    {
+      "id": "quote_057",
+      "type": "quote",
+      "author": "St. Isaac der Syrer",
+      "title": "",
+      "text": "Be your own persecutor, and you will drive away your enemy by your approach.\nReconcile yourself with yourself, and heaven and earth will reconcile themselves with you.\nEnter deep into yourself, fleeing sin at the same time — in so doing you will find the path of ascent."
+    },
+    {
+      "id": "quote_058",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "The Lord is merciful.\nMy soul knows it, but it is not possible to describe this with words.\nHe is infinitely gentle and humble, and when the soul sees Him, it transforms into Him, becomes all love for the neighbor, becomes itself gentle and humble."
+    },
+    {
+      "id": "quote_059",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "You must love Him as He is a non-God, a non-Intellect, a non-Person, a non-image; even more, as He is a pure One, clear, pure, separate from all duality.\nAnd in this One we must eternally sink down into nothingness."
+    },
+    {
+      "id": "quote_060",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "I will never ask God to show Himself to me.\nAll I ask is that He make me pure and empty.\nFor it is God's own nature to show Himself to those who are pure, and to fill those who are empty."
+    },
+    {
+      "id": "quote_061",
+      "type": "quote",
+      "author": "St Symeon der neue Theologe",
+      "title": "",
+      "text": "Thou shalt not try to grasp God with the hands of thy understanding, for He is untouchable;\nand the more thou dost try and strive to touch Him or to hold Him, the less thou wilt have of Him in thee, and He will instantly vanish altogether from thee."
+    },
+    {
+      "id": "quote_062",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "It is in the nature of love to flow and to spring forth from two who are only one.\nOne as one does not generate love.\nTwo as two does not generate love.\nBut two as one necessarily generates love according to its nature — pressing, ardent."
+    },
+    {
+      "id": "quote_063",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "God is with us in suffering.\nThis means He Himself suffers with us.\nHe who knows the truth knows that I speak the truth.\nGod suffers with people — yes, He suffers in His way more, incomparably more than the one who suffers for Him."
+    },
+    {
+      "id": "quote_064",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think;\nbut to think soberly, according as God hath dealt to every man the measure of faith."
+    },
+    {
+      "id": "quote_065",
+      "type": "quote",
+      "author": "Seraphim von Sarov",
+      "title": "",
+      "text": "Whoever has attained perfect love for God lives in this world as though he were not there.\nHe regards himself as a stranger to what he sees, for he patiently awaits the invisible...\nDrawn toward God, he longs for nothing other than to behold Him."
+    },
+    {
+      "id": "quote_066",
+      "type": "quote",
+      "author": "Upanishaden",
+      "title": "",
+      "text": "May we employ body and mind to see the Lord of Love who lives in all.\nMay we with our minds ever strive for the blessed unity with the Lord.\nMay we train our senses to serve the Lord through the practice of meditation."
+    },
+    {
+      "id": "quote_067",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "Those who have already begun to pray have understood how important it is not to remain on the first steps.\nHowever, they are often not yet resolute enough not to remain there — they have not yet withdrawn from occasions, which is most dangerous."
+    },
+    {
+      "id": "quote_068",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "What is the nature of the soul?\nThe ultimate certainty in the soul is the utterly simple nature of the soul.\nThis nature of the soul is so delicate that it pays no more attention to its place than if it were not there at all."
+    },
+    {
+      "id": "quote_069",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Never has anything become so similar, so akin, so one with another as the soul with God in this birth.\nIn this birth God flows into the soul with such a dazzling light that God and the soul fuse into a shared spirit, a substance, a unity."
+    },
+    {
+      "id": "quote_070",
+      "type": "quote",
+      "author": "Apostel Paulus",
+      "title": "",
+      "text": "Therefore let no one boast in human leaders.\nFor all things are yours — whether Paul or Apollos or Cephas or the world or life or death or the present or the future — all belong to you;\nand you belong to Christ, and Christ belongs to God."
+    },
+    {
+      "id": "quote_071",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "Before the Lord I am wicked, uglier than a mangy dog, because of my sins.\nBut I asked God to forgive them.\nAnd then He not only granted me His pardon, but also gave me the Holy Spirit, and in the Holy Spirit I came to know God Himself."
+    },
+    {
+      "id": "quote_072",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "His Holiness could do us no greater favor than to grant us a life that is an imitation of the life of His beloved Son.\nI hold this to be certain: such a favor would mean strengthening our weakness so that we might be able to imitate Him in His great sufferings."
+    },
+    {
+      "id": "quote_073",
+      "type": "quote",
+      "author": "St Symeon der neue Theologe",
+      "title": "",
+      "text": "If we do not die to the world and the things in the world, how shall we live the life that is hidden in Christ, if we have not died in the name of God?\nHow shall we contemplate God, as St. Symeon said, that He lives in us as light?"
+    },
+    {
+      "id": "quote_074",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Whatever a man loves, he is.\nIf he loves a stone, he is a stone; if he loves a human being, he is a human being.\nIf he loves God... well, I dare not continue; for if I said that he is God, you might stone me; but I refer you to the Scripture."
+    },
+    {
+      "id": "quote_075",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "When the soul is totally lost, one recognizes that it was one's own self that had been searching in vain for so long.\nThe soul is God.\nIt rejoices in supreme ecstasy.\nIt is sufficient unto itself.\nIt shines with its own light.\nIt discovers that the Kingdom of God is itself!"
+    },
+    {
+      "id": "quote_076",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "Christ has no body now on earth but yours, no hands but yours, no feet but yours.\nYours are the eyes through which Christ's compassion looks out on the world;\nyours are the feet with which He goes about doing good;\nyours are the hands with which He now blesses people."
+    },
+    {
+      "id": "quote_077",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "When the grace of the Holy Spirit dwells in the heart of a man, even in the smallest measure, that man weeps for all people.\nMoreover, he has compassion on those who do not know God or who resist Him.\nHe prays for them day and night that they may be converted and come to know God."
+    },
+    {
+      "id": "quote_078",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Become as a child, make yourself deaf and blind!\nSo that your whole being becomes a nothing — transcend all being and all nothingness!\nLeave behind place and time, and also the images!\nIf you go on no road, you will reach the narrow path leading to the traces of the desert."
+    },
+    {
+      "id": "quote_079",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "In God there is no care and no suffering and no grief.\nIf you wish to be free of all grief and all suffering, hold fast to God and turn yourself wholly toward Him and to no one else.\nIn truth, all your suffering comes from this: that you do not turn yourself wholly to God."
+    },
+    {
+      "id": "quote_080",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "If we do not pray for our enemies, the soul can have no peace.\nThe soul that God's grace has taught to pray loves passionately all creatures, and especially man.\nOn the Cross the Lord suffered for people, and His soul endured the agony for each one of us."
+    },
+    {
+      "id": "quote_081",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "The door through which we can enter this castle is prayer.\nIt is absurd to think we could enter heaven without first entering our own souls — without knowing ourselves and reflecting on the wretchedness of our nature and what we owe to God — and without continually asking for His grace."
+    },
+    {
+      "id": "quote_082",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "There are now certain people who turn away from things out of love, but who still feel great pain for what they have left behind.\nThose who truly understand that it means absolutely nothing when they give themselves up and have renounced everything — those who live in this way truly possess everything."
+    },
+    {
+      "id": "quote_083",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "We should learn to see God in all gifts and works, without being satisfied with anything or particularly stimulated by anything.\nFor us there can be no attachment to a particular way of behaving in this life, no matter how successful we were or not."
+    },
+    {
+      "id": "quote_084",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "I repeat: it is necessary that your foundation consist of more than prayer and contemplation.\nIf you do not strive for virtue and practice it, you will always remain dwarfs.\nTherefore be filled with prayer, not to seek pleasure, but for the sake of strength in service.\nMartha and Mary must unite."
+    },
+    {
+      "id": "quote_085",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Take care first that your outer senses fulfill their functions properly.\nBear in mind that evil presents itself to the eye no less than good.\nThe one imposes on the ears just as the other does.\nAnd this applies to all the senses.\nTherefore it is necessary to direct oneself with all earnestness toward the good!"
+    },
+    {
+      "id": "quote_086",
+      "type": "quote",
+      "author": "Teresa von Avila",
+      "title": "",
+      "text": "It is very important to ask people with experience.\nFor otherwise you will think that you do great harm to yourself by giving up your necessary possessions.\nProvided we do not give up our prayer, the Lord will turn everything we do to our advantage, even when we find no one to instruct us."
+    },
+    {
+      "id": "quote_087",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "Some simple people think they will see God as if He were standing over there and they here.\nIt is not so.\nGod and I, we are one.\nI am so transformed into Him that He makes me one being with Himself — not the same being.\nFor the living God, there is in reality no distinction!"
+    },
+    {
+      "id": "quote_088",
+      "type": "quote",
+      "author": "Seraphim von Sarov",
+      "title": "",
+      "text": "Whoever follows the path of attentiveness must not rely solely on his own understanding;\nhe must rather be guided by the Scriptures and compare the movements of his heart and his life with the lives and works of the ascetics who have gone before him.\nIn this way it is easier to guard against harm and to see the truth clearly."
+    },
+    {
+      "id": "quote_089",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "The Lord loves you, and you also live in love.\nBe obedient to every authority, humble your hearts, and the Holy Spirit will live in you.\nHe comes quietly into the soul, grants it peace, and bears witness to His greeting without words.\nSing to God in love and humility of spirit, for this is what pleases the Lord."
+    },
+    {
+      "id": "quote_090",
+      "type": "quote",
+      "author": "St Symeon der neue Theologe",
+      "title": "",
+      "text": "You should not go wandering about in search of famous monks, nor investigate their lives.\nWith God's grace, if you rely on a spiritual father, speak to him only of yourself.\nIf not, look always upon Him as if you see Christ, and in all things hold Him as the One who sees your cares and afflictions."
+    },
+    {
+      "id": "quote_091",
+      "type": "quote",
+      "author": "St. Silouane l'Athonite",
+      "title": "",
+      "text": "The merciful Lord loves His servants and gives them tribulation on earth, so that in tribulation the soul may learn humility and submit to the will of God,\nand so that in pain it may find the rest of which the Lord said: Learn of Me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+    },
+    {
+      "id": "quote_092",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "As the soul becomes purer and barer and poorer, and possesses less of created things and is freed of all things that are not God, it reaches God more purely and is more completely in Him.\nAnd it truly becomes one with God, and looks into God and God looks upon it, face to face.\nTwo images transformed into one."
+    },
+    {
+      "id": "quote_093",
+      "type": "quote",
+      "author": "Franz von Assisi",
+      "title": "",
+      "text": "Lord, make me an instrument of Your peace.\nWhere there is hatred, let me sow love; where there is injury, pardon; where there is doubt, faith; where there is despair, hope; where there is darkness, light; where there is sadness, joy.\nGrant that I may not so much seek to be consoled as to console; to be understood as to understand; to be loved as to love.\nFor it is in giving that we receive; it is in pardoning that we are pardoned; and it is in dying that we are born to eternal life."
+    },
+    {
+      "id": "quote_094",
+      "type": "quote",
+      "author": "Meister Eckhart",
+      "title": "",
+      "text": "In the same way that nothing can prevent this person from directing his attention and seeking and pleasure toward nothing other than God, in this same way God became one with this person, with all his attention.\nAnd just as no multiplicity can disturb God, so nothing can disturb and divide this person, for he is one with Him, where all multiplicity is one — all is one multiplicity."
+    },
+    {
+      "id": "quote_095",
+      "type": "quote",
+      "author": "Franz von Sales",
+      "title": "",
+      "text": "Half an hour's meditation each day is essential, except when you are very busy. Then a full hour is needed."
+    }
+  ]
+}
